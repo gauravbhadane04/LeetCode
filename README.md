@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/gauravbhadane04/LeetCode/tree/master/1920-build-array-from-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/gauravbhadane04/LeetCode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/gauravbhadane04/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
