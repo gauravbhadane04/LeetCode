@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravbhadane04/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1920-build-array-from-permutation](https://github.com/gauravbhadane04/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -19,10 +20,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gauravbhadane04/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravbhadane04/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/gauravbhadane04/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gauravbhadane04/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gauravbhadane04/LeetCode/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravbhadane04/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
