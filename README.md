@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gauravbhadane04/LeetCode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/gauravbhadane04/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/gauravbhadane04/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravbhadane04/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1920-build-array-from-permutation](https://github.com/gauravbhadane04/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -59,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/gauravbhadane04/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravbhadane04/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
