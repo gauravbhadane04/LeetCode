@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravbhadane04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/gauravbhadane04/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gauravbhadane04/LeetCode/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/gauravbhadane04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravbhadane04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravbhadane04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/gauravbhadane04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/gauravbhadane04/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravbhadane04/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravbhadane04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/gauravbhadane04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
