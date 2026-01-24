@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauravbhadane04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/gauravbhadane04/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/gauravbhadane04/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/gauravbhadane04/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/gauravbhadane04/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravbhadane04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/gauravbhadane04/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravbhadane04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gauravbhadane04/LeetCode/tree/master/0567-permutation-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/gauravbhadane04/LeetCode/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
