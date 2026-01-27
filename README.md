@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/gauravbhadane04/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/gauravbhadane04/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/gauravbhadane04/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauravbhadane04/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gauravbhadane04/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1920-build-array-from-permutation](https://github.com/gauravbhadane04/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Simulation
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/gauravbhadane04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/gauravbhadane04/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/gauravbhadane04/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauravbhadane04/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
