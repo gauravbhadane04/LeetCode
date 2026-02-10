@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/gauravbhadane04/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1920-build-array-from-permutation](https://github.com/gauravbhadane04/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/gauravbhadane04/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/gauravbhadane04/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Simulation
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gauravbhadane04/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [3719-longest-balanced-subarray-i](https://github.com/gauravbhadane04/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/gauravbhadane04/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/gauravbhadane04/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/gauravbhadane04/LeetCode/tree/master/0567-permutation-in-string) |
+| [3719-longest-balanced-subarray-i](https://github.com/gauravbhadane04/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -136,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/gauravbhadane04/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/gauravbhadane04/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/gauravbhadane04/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
